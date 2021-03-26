@@ -5,7 +5,7 @@ import img2 from './bgImage2.svg';
 export const Background = styled.div`
 	background-image: ${(props) => (props.dark ? `url(${img2})` : `url(${img1})`)};
 	width: 100%;
-	max-height: 700px;
+	max-height: ${(props) => (props.max ? '100%' : '700px')};
 `;
 
 export const Img = styled.img`

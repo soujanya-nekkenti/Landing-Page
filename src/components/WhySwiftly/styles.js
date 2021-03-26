@@ -28,7 +28,6 @@ export const TextAnalysis = styled.div`
 `;
 
 export const Box = styled.div`
-	width: 300px;
 	height: 200px;
 	padding-top: 50px;
 `;

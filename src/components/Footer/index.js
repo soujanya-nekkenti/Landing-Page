@@ -85,7 +85,7 @@ const Footer = ({ t }) => {
 									<S.Label htmlFor="select-lang">{t('Language')}</S.Label>
 									<S.LangSelect onChange={handleChange} value={i18n.language} id="select-lang">
 										<option value="en">English</option>
-										<option value="es">Español</option>
+										<option value="se">Swedish</option>
 									</S.LangSelect>
 								</S.Select>
 							</Col>
