@@ -1,0 +1,37 @@
+{
+    "title": "Here how it works",
+    "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+    "section": [
+        {
+           "id": 1,
+            "title": "Create your profile",
+            "content": "At Swiftly, you do not have to sort, read through and respond to applications from candidates who do not have the right skills and experience for the current position.",
+            "icon": "notes.svg",
+            "button": "Sign Up"
+          },
+          {
+            "id": 2,
+            "title": "Take test once",
+            "content": "Swiftly is not about quantity, but about relevance for both candidates and companies. That is why we say no to primitive mass advertising. Instead, Gritify offers you undivided attention from the most interesting candidates.",
+            "icon": "notes.svg"
+       
+          },
+          {
+            "id": 3,
+            "title": "Let Swiftly find job matches",
+            "content": "Swiftly means recruitment on real merits, which is made possible through an objective and open-minded process where competence, experience and preferences are matched with the right job.",
+            "icon": "notes.svg"
+          
+          },
+          {
+            "id": 4,
+            "title": "Work and Have Fun!!",
+            "content": "Swiftly means recruitment on real merits, which is made possible through an objective and open-minded process where competence, experience and preferences are matched with the right job.",
+            "icon": "notes.svg"
+          
+          }
+    ]
+  }
+
+  
+  

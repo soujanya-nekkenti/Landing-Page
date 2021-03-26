@@ -1,0 +1,22 @@
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="850" viewBox="0 0 1600 850">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc001"/>
+      <stop offset="1" stop-color="#ffdb6e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="1600" height="850" opacity="0.2" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="1600" height="850" opacity="0.2" fill="url(#linear-gradient)"/>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(905 -465)" fill="none" stroke="#ffc001" stroke-width="100" opacity="0.1">
+      <circle cx="600" cy="600" r="600" stroke="none"/>
+      <circle cx="600" cy="600" r="550" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(750 300)" fill="none" stroke="#ffc001" stroke-width="100" opacity="0.1">
+      <circle cx="400" cy="400" r="400" stroke="none"/>
+      <circle cx="400" cy="400" r="350" fill="none"/>
+    </g>
+  </g>
+</svg>

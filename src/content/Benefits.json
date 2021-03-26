@@ -1,0 +1,27 @@
+{
+    "title": "Benefits",
+    "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+    "section": [
+        {
+            "title": "Save time with less administration",
+            "content": "At Swiftly, you do not have to sort, read through and respond to applications from candidates who do not have the right skills and experience for the current position.",
+            "icon": "notes.svg"
+      
+          },
+          {
+            "title": "Discretion, not mass advertising",
+            "content": "Swiftly is not about quantity, but about relevance for both candidates and companies. That is why we say no to primitive mass advertising. Instead, Gritify offers you undivided attention from the most interesting candidates.",
+            "icon": "notes.svg"
+       
+          },
+          {
+            "title": "Recruitment on genuine merits",
+            "content": "Swiftly means recruitment on real merits, which is made possible through an objective and open-minded process where competence, experience and preferences are matched with the right job.",
+            "icon": "notes.svg"
+          
+          }
+    ]
+  }
+
+  
+  
